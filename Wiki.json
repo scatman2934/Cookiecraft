@@ -2,8 +2,6 @@
   "category": [
     {
       "name": "cosmic", 
-      "image": "cosmic",
-      "title": "cosmic_title",
       "items": [
         {
           "name": "spawner tool",
@@ -41,8 +39,6 @@
     },
     {
       "name": "titan", 
-      "image": "titan",
-      "title": "titan_title",
       "items": [
         {
           "name": "spawner tool",
