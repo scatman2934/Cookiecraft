@@ -2,8 +2,8 @@
   "category": [
     {
       "name": "cosmic", 
-      "image": "cosmic.png",
-      "title": "cosmic_title.png",
+      "image": "cosmic",
+      "title": "cosmic_title",
       "items": [
         {
           "name": "spawner tool",
