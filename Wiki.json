@@ -1,6 +1,7 @@
 { 
-  "category": {
-    "cosmic": {
+  "category": [
+    {
+      "name": "cosmic", 
       "image": "https://raw.githubusercontent.com/jay2934/Cookiecraft/main/category%20images/cosmic.png",
       "title": "https://raw.githubusercontent.com/jay2934/Cookiecraft/main/category%20titles/cosmic_title.png",
       "items": [
@@ -38,5 +39,5 @@
         }
       ]
     }
-  }
+  ]
 }
