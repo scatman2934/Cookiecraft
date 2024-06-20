@@ -73,6 +73,43 @@
           "image": "image"
         }
       ]
+    },
+    {
+      "name": "relics", 
+      "items": [
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        }
+      ]
     }
   ]
 }
