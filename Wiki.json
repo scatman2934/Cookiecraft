@@ -39,5 +39,44 @@
         }
       ]
     }
+    {
+      "name": "titan", 
+      "image": "titan",
+      "title": "titan_title",
+      "items": [
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "image": "image"
+        }
+      ]
+    }
   ]
 }
