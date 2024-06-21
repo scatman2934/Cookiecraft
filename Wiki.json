@@ -1,6 +1,9 @@
 { 
   "category": [
     {
+      "name": "everything", 
+    },
+    {
       "name": "cosmic", 
       "items": [
         {
