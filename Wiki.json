@@ -12,7 +12,7 @@
           "rarity": "rarity",
           "value": 8.95,
           "description": "description",
-          "item_name": "item/golden_pickaxe"
+          "itemname": "item/golden_pickaxe"
         },
         {
           "name": "spawner tool",
