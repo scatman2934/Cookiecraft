@@ -28,6 +28,62 @@
           "rarity": "rarity",
           "value": 8.95,
           "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
           "itemname": "item/diamond_pickaxe"
         },
         {
@@ -58,6 +114,62 @@
           "value": 8.95,
           "description": "description",
           "itemname": "item/iron_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_shovel"
         },
         {
           "name": "spawner tool",
@@ -110,6 +222,46 @@
           "rarity": "rarity",
           "value": 8.95,
           "description": "description",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
           "itemname": "item/netherite_axe"
         }
       ]
@@ -132,6 +284,30 @@
           "value": 8.95,
           "description": "description",
           "itemname": "item/iron_sword"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_sword"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_sword"
+        },
+        {
+          "name": "spawner tool",
+          "category": "cosmic",
+          "rarity": "rarity",
+          "value": 8.95,
+          "description": "description",
+          "itemname": "item/diamond_sword"
         },
         {
           "name": "spawner tool",
