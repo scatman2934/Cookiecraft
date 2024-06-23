@@ -7,6 +7,7 @@
       "name": "cosmic", 
       "items": [
         {
+          "id": 0,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -15,6 +16,7 @@
           "itemname": "item/stone_pickaxe"
         },
         {
+          "id": 1,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -23,6 +25,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 2,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -31,6 +34,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 3,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -39,6 +43,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 4,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -47,6 +52,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 5,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -55,6 +61,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 6,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -63,6 +70,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 7,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -71,6 +79,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 8,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -79,6 +88,7 @@
           "itemname": "item/iron_pickaxe"
         },
         {
+          "id": 9,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -87,6 +97,7 @@
           "itemname": "item/diamond_pickaxe"
         },
         {
+          "id": 10,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -100,6 +111,7 @@
       "name": "titan", 
       "items": [
         {
+          "id": 11,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -108,6 +120,7 @@
           "itemname": "item/stone_shovel"
         },
         {
+          "id": 12,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -116,6 +129,7 @@
           "itemname": "item/iron_shovel"
         },
         {
+          "id": 13,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -124,6 +138,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 14,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -132,6 +147,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 15,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -140,6 +156,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 16,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -148,6 +165,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 17,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -156,6 +174,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 18,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -164,6 +183,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 19,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -172,6 +192,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 20,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -180,6 +201,7 @@
           "itemname": "item/diamond_shovel"
         },
         {
+          "id": 21,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -193,6 +215,7 @@
       "name": "relics", 
       "items": [
         {
+          "id": 22,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -201,6 +224,7 @@
           "itemname": "item/stone_axe"
         },
         {
+          "id": 23,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -209,6 +233,7 @@
           "itemname": "item/iron_axe"
         },
         {
+          "id": 24,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -217,6 +242,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 25,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -225,6 +251,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 26,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -233,6 +260,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 27,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -241,6 +269,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 28,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -249,6 +278,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 29,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -257,6 +287,7 @@
           "itemname": "item/diamond_axe"
         },
         {
+          "id": 30,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -270,6 +301,7 @@
       "name": "spawner", 
       "items": [
         {
+          "id": 31,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -278,6 +310,7 @@
           "itemname": "item/stone_sword"
         },
         {
+          "id": 32,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -286,6 +319,7 @@
           "itemname": "item/iron_sword"
         },
         {
+          "id": 33,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -294,6 +328,7 @@
           "itemname": "item/diamond_sword"
         },
         {
+          "id": 34,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -302,6 +337,7 @@
           "itemname": "item/diamond_sword"
         },
         {
+          "id": 35,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -310,6 +346,7 @@
           "itemname": "item/diamond_sword"
         },
         {
+          "id": 36,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
@@ -318,6 +355,7 @@
           "itemname": "item/diamond_sword"
         },
         {
+          "id": 37,
           "name": "spawner tool",
           "category": "cosmic",
           "rarity": "rarity",
