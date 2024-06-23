@@ -1,10 +1,10 @@
 { 
   "category": [
     {
-      "name": "everything"
+      "categoryname": "everything"
     },
     {
-      "name": "cosmic", 
+      "categoryname": "cosmic", 
       "items": [
         {
           "id": 0,
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "name": "titan", 
+      "categoryname": "titan", 
       "items": [
         {
           "id": 11,
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "name": "relics", 
+      "categoryname": "relics", 
       "items": [
         {
           "id": 22,
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "name": "spawner", 
+      "categoryname": "spawner", 
       "items": [
         {
           "id": 31,
