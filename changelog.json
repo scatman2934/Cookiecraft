@@ -1,0 +1,28 @@
+{
+  "changelog": [
+    {
+      "item": "> 06/22/2024 8:28 PM EST\n+ /server hub - A hub to join the different servers as well as creative world.\n"
+    },
+    {
+      "item": "> 06/21/2024 7:40 PM EST\n+ Purchased Hub World\n"
+    },
+    {
+      "item": "> 06/21/2024 1:59 PM EST\n+ /pay works\n"
+    },
+    {
+      "item": "> 06/20/2024 11:08 AM EST\n+ Land Claiming now works\n"
+    },
+    {
+      "item": "> 06/20/2024 10:17 AM EST\n+ /balance works\n"
+    },
+    {
+      "item": "> 06/15/2024 5:33 PM EST\n+ Homes now work\n+ /sethome homename to set a home\n+ /home homename to teleport to your home\n+ /homes to list them all out\n+ /delhome homename to delete a home\n+ /renamehome homename newname to rename a home\n"
+    },
+    {
+      "item": "> 06/15/2024 11:53 AM EST\n+ Fixed crashes when going to The End and using bows"
+    }
+  ]
+}
+
+
+
