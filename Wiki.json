@@ -4,364 +4,1282 @@
       "categoryname": "everything"
     },
     {
-      "categoryname": "cosmic", 
+      "categoryname": "boats", 
       "items": [
         {
           "id": 0,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/stone_pickaxe"
+          "name": "acacia boat",
+          "category": "boats",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A boat made from acacia wood.",
+          "itemname": "item/acacia_boat"
         },
         {
           "id": 1,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "acacia chest boat",
+          "category": "boats",
+          "rarity": "common",
+          "value": 6.5,
+          "description": "A boat made from acacia wood with a chest.",
+          "itemname": "item/acacia_chest_boat"
         },
         {
           "id": 2,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "bamboo chest raft",
+          "category": "boats",
+          "rarity": "uncommon",
+          "value": 7.0,
+          "description": "A raft made from bamboo with a chest.",
+          "itemname": "item/bamboo_chest_raft"
         },
         {
           "id": 3,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "bamboo raft",
+          "category": "boats",
+          "rarity": "uncommon",
+          "value": 6.0,
+          "description": "A raft made from bamboo.",
+          "itemname": "item/bamboo_raft"
         },
         {
           "id": 4,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "birch boat",
+          "category": "boats",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A boat made from birch wood.",
+          "itemname": "item/birch_boat"
         },
         {
           "id": 5,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "birch chest boat",
+          "category": "boats",
+          "rarity": "common",
+          "value": 6.5,
+          "description": "A boat made from birch wood with a chest.",
+          "itemname": "item/birch_chest_boat"
         },
         {
           "id": 6,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "cherry boat",
+          "category": "boats",
+          "rarity": "rare",
+          "value": 8.0,
+          "description": "A boat made from cherry wood.",
+          "itemname": "item/cherry_boat"
         },
         {
           "id": 7,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "cherry chest boat",
+          "category": "boats",
+          "rarity": "rare",
+          "value": 9.5,
+          "description": "A boat made from cherry wood with a chest.",
+          "itemname": "item/cherry_chest_boat"
         },
         {
           "id": 8,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_pickaxe"
+          "name": "dark oak boat",
+          "category": "boats",
+          "rarity": "uncommon",
+          "value": 6.0,
+          "description": "A boat made from dark oak wood.",
+          "itemname": "item/dark_oak_boat"
         },
         {
           "id": 9,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_pickaxe"
-        },
-        {
-          "id": 10,
-          "name": "netherite pickaxe",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/netherite_pickaxe"
+          "name": "dark oak chest boat",
+          "category": "boats",
+          "rarity": "uncommon",
+          "value": 7.5,
+          "description": "A boat made from dark oak wood with a chest.",
+          "itemname": "item/dark_oak_chest_boat"
         }
       ]
     },
     {
-      "categoryname": "titan", 
+      "categoryname": "doors_and_signs", 
       "items": [
         {
+          "id": 10,
+          "name": "acacia door",
+          "category": "doors_and_signs",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A door made from acacia wood.",
+          "itemname": "item/acacia_door"
+        },
+        {
           "id": 11,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/stone_shovel"
+          "name": "acacia hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 4.5,
+          "description": "A hanging sign made from acacia wood.",
+          "itemname": "item/acacia_hanging_sign"
         },
         {
           "id": 12,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_shovel"
+          "name": "acacia sign",
+          "category": "doors_and_signs",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A sign made from acacia wood.",
+          "itemname": "item/acacia_sign"
         },
         {
           "id": 13,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "bamboo door",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 3.5,
+          "description": "A door made from bamboo.",
+          "itemname": "item/bamboo_door"
         },
         {
           "id": 14,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "bamboo hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 4.5,
+          "description": "A hanging sign made from bamboo.",
+          "itemname": "item/bamboo_hanging_sign"
         },
         {
           "id": 15,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "bamboo sign",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 3.5,
+          "description": "A sign made from bamboo.",
+          "itemname": "item/bamboo_sign"
         },
         {
           "id": 16,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "birch door",
+          "category": "doors_and_signs",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A door made from birch wood.",
+          "itemname": "item/birch_door"
         },
         {
           "id": 17,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "birch hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A hanging sign made from birch wood.",
+          "itemname": "item/birch_hanging_sign"
         },
         {
           "id": 18,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "birch sign",
+          "category": "doors_and_signs",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A sign made from birch wood.",
+          "itemname": "item/birch_sign"
         },
         {
           "id": 19,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "cherry door",
+          "category": "doors_and_signs",
+          "rarity": "rare",
+          "value": 5.0,
+          "description": "A door made from cherry wood.",
+          "itemname": "item/cherry_door"
         },
         {
           "id": 20,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_shovel"
+          "name": "cherry hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "rare",
+          "value": 5.5,
+          "description": "A hanging sign made from cherry wood.",
+          "itemname": "item/cherry_hanging_sign"
         },
         {
           "id": 21,
-          "name": "netherite shovel",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/netherite_shovel"
-        }
-      ]
-    },
-    {
-      "categoryname": "relics", 
-      "items": [
+          "name": "cherry sign",
+          "category": "doors_and_signs",
+          "rarity": "rare",
+          "value": 5.0,
+          "description": "A sign made from cherry wood.",
+          "itemname": "item/cherry_sign"
+        },
         {
           "id": 22,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/stone_axe"
+          "name": "crimson door",
+          "category": "doors_and_signs",
+          "rarity": "epic",
+          "value": 7.0,
+          "description": "A door made from crimson wood.",
+          "itemname": "item/crimson_door"
         },
         {
           "id": 23,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_axe"
+          "name": "crimson hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "epic",
+          "value": 7.5,
+          "description": "A hanging sign made from crimson wood.",
+          "itemname": "item/crimson_hanging_sign"
         },
         {
           "id": 24,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
+          "name": "crimson sign",
+          "category": "doors_and_signs",
+          "rarity": "epic",
+          "value": 7.0,
+          "description": "A sign made from crimson wood.",
+          "itemname": "item/crimson_sign"
         },
         {
           "id": 25,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
+          "name": "dark oak door",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 4.0,
+          "description": "A door made from dark oak wood.",
+          "itemname": "item/dark_oak_door"
         },
         {
           "id": 26,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
+          "name": "dark oak hanging sign",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 4.5,
+          "description": "A hanging sign made from dark oak wood.",
+          "itemname": "item/dark_oak_hanging_sign"
         },
         {
           "id": 27,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
-        },
-        {
-          "id": 28,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
-        },
-        {
-          "id": 29,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_axe"
-        },
-        {
-          "id": 30,
-          "name": "netherite axe",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/netherite_axe"
+          "name": "dark oak sign",
+          "category": "doors_and_signs",
+          "rarity": "uncommon",
+          "value": 4.0,
+          "description": "A sign made from dark oak wood.",
+          "itemname": "item/dark_oak_sign"
         }
       ]
     },
     {
-      "categoryname": "spawner", 
+      "categoryname": "resources", 
       "items": [
         {
+          "id": 28,
+          "name": "amethyst shard",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 12.0,
+          "description": "A shard of amethyst.",
+          "itemname": "item/amethyst_shard"
+        },
+        {
+          "id": 29,
+          "name": "apple",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A tasty apple.",
+          "itemname": "item/apple"
+        },
+        {
+          "id": 30,
+          "name": "arrow",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.0,
+          "description": "A basic arrow.",
+          "itemname": "item/arrow"
+        },
+        {
           "id": 31,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/stone_sword"
+          "name": "axolotl bucket",
+          "category": "resources",
+          "rarity": "epic",
+          "value": 20.0,
+          "description": "A bucket with an axolotl.",
+          "itemname": "item/axolotl_bucket"
         },
         {
           "id": 32,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/iron_sword"
+          "name": "baked potato",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A baked potato.",
+          "itemname": "item/baked_potato"
         },
         {
           "id": 33,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_sword"
+          "name": "bamboo",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A stalk of bamboo.",
+          "itemname": "item/bamboo"
         },
         {
           "id": 34,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_sword"
+          "name": "barrier",
+          "category": "resources",
+          "rarity": "legendary",
+          "value": 50.0,
+          "description": "An unbreakable barrier.",
+          "itemname": "item/barrier"
         },
         {
           "id": 35,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_sword"
+          "name": "beef",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A piece of raw beef.",
+          "itemname": "item/beef"
         },
         {
           "id": 36,
-          "name": "spawner tool",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
-          "itemname": "item/diamond_sword"
+          "name": "beetroot",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.0,
+          "description": "A beetroot.",
+          "itemname": "item/beetroot"
         },
         {
           "id": 37,
+          "name": "beetroot seeds",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.0,
+          "description": "Seeds of a beetroot.",
+          "itemname": "item/beetroot_seeds"
+        },
+        {
+          "id": 38,
+          "name": "beetroot soup",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A bowl of beetroot soup.",
+          "itemname": "item/beetroot_soup"
+        },
+        {
+          "id": 39,
+          "name": "bell",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 10.0,
+          "description": "A bell.",
+          "itemname": "item/bell"
+        },
+        {
+          "id": 40,
+          "name": "black candle",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 2.5,
+          "description": "A black candle.",
+          "itemname": "item/black_candle"
+        },
+        {
+          "id": 41,
+          "name": "black dye",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A dye made from black ink.",
+          "itemname": "item/black_dye"
+        },
+        {
+          "id": 42,
+          "name": "blade pottery sherd",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 15.0,
+          "description": "A pottery sherd with a blade motif.",
+          "itemname": "item/blade_pottery_sherd"
+        },
+        {
+          "id": 43,
+          "name": "blaze powder",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 8.0,
+          "description": "Powder from a blaze.",
+          "itemname": "item/blaze_powder"
+        },
+        {
+          "id": 44,
+          "name": "blaze rod",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 10.0,
+          "description": "A rod from a blaze.",
+          "itemname": "item/blaze_rod"
+        },
+        {
+          "id": 45,
+          "name": "blue candle",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 2.5,
+          "description": "A blue candle.",
+          "itemname": "item/blue_candle"
+        },
+        {
+          "id": 46,
+          "name": "blue dye",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A dye made from blue flowers.",
+          "itemname": "item/blue_dye"
+        },
+        {
+          "id": 47,
+          "name": "bone",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A bone.",
+          "itemname": "item/bone"
+        },
+        {
+          "id": 48,
+          "name": "bone meal",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.0,
+          "description": "Bone meal made from bones.",
+          "itemname": "item/bone_meal"
+        },
+        {
+          "id": 49,
+          "name": "book",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A book.",
+          "itemname": "item/book"
+        },
+        {
+          "id": 50,
+          "name": "bow",
+          "category": "resources",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A bow.",
+          "itemname": "item/bow"
+        },
+        {
+          "id": 51,
+          "name": "bowl",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.0,
+          "description": "A bowl.",
+          "itemname": "item/bowl"
+        },
+        {
+          "id": 52,
+          "name": "bread",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A loaf of bread.",
+          "itemname": "item/bread"
+        },
+        {
+          "id": 53,
+          "name": "breeze rod",
+          "category": "resources",
+          "rarity": "epic",
+          "value": 25.0,
+          "description": "A rod from a breeze.",
+          "itemname": "item/breeze_rod"
+        },
+        {
+          "id": 54,
+          "name": "brewing stand",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 7.0,
+          "description": "A stand used for brewing potions.",
+          "itemname": "item/brewing_stand"
+        },
+        {
+          "id": 55,
+          "name": "brick",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A brick.",
+          "itemname": "item/brick"
+        },
+        {
+          "id": 56,
+          "name": "broken elytra",
+          "category": "resources",
+          "rarity": "legendary",
+          "value": 30.0,
+          "description": "A broken pair of elytra.",
+          "itemname": "item/broken_elytra"
+        },
+        {
+          "id": 57,
+          "name": "brown candle",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A brown candle.",
+          "itemname": "item/brown_candle"
+        },
+        {
+          "id": 58,
+          "name": "brown dye",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A dye made from brown beans.",
+          "itemname": "item/brown_dye"
+        },
+        {
+          "id": 59,
+          "name": "brush",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 4.0,
+          "description": "A brush used for excavation.",
+          "itemname": "item/brush"
+        },
+        {
+          "id": 60,
+          "name": "bucket",
+          "category": "resources",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A bucket.",
+          "itemname": "item/bucket"
+        },
+        {
+          "id": 61,
+          "name": "bundle",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 10.0,
+          "description": "A bundle for holding items.",
+          "itemname": "item/bundle"
+        },
+        {
+          "id": 62,
+          "name": "bundle (filled)",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 12.0,
+          "description": "A bundle filled with items.",
+          "itemname": "item/bundle_filled"
+        },
+        {
+          "id": 63,
+          "name": "burn pottery sherd",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 15.0,
+          "description": "A pottery sherd with a burn motif.",
+          "itemname": "item/burn_pottery_sherd"
+        },
+        {
+          "id": 64,
+          "name": "cake",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 6.0,
+          "description": "A delicious cake.",
+          "itemname": "item/cake"
+        },
+        {
+          "id": 65,
+          "name": "campfire",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 5.0,
+          "description": "A campfire.",
+          "itemname": "item/campfire"
+        },
+        {
+          "id": 66,
+          "name": "candle",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A candle.",
+          "itemname": "item/candle"
+        },
+        {
+          "id": 67,
+          "name": "carrot",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A carrot.",
+          "itemname": "item/carrot"
+        },
+        {
+          "id": 68,
+          "name": "carrot on a stick",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 4.0,
+          "description": "A carrot on a stick.",
+          "itemname": "item/carrot_on_a_stick"
+        },
+        {
+          "id": 69,
+          "name": "cauldron",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 7.0,
+          "description": "A cauldron.",
+          "itemname": "item/cauldron"
+        },
+        {
+          "id": 70,
+          "name": "chain",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 5.0,
+          "description": "A chain.",
+          "itemname": "item/chain"
+        },
+        {
+          "id": 71,
+          "name": "chainmail boots",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 8.0,
+          "description": "Boots made of chainmail.",
+          "itemname": "item/chainmail_boots"
+        },
+        {
+          "id": 72,
+          "name": "chainmail chestplate",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 12.0,
+          "description": "A chestplate made of chainmail.",
+          "itemname": "item/chainmail_chestplate"
+        },
+        {
+          "id": 73,
+          "name": "chainmail helmet",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 8.0,
+          "description": "A helmet made of chainmail.",
+          "itemname": "item/chainmail_helmet"
+        },
+        {
+          "id": 74,
+          "name": "chainmail leggings",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 10.0,
+          "description": "Leggings made of chainmail.",
+          "itemname": "item/chainmail_leggings"
+        },
+        {
+          "id": 75,
+          "name": "charcoal",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A piece of charcoal.",
+          "itemname": "item/charcoal"
+        },
+        {
+          "id": 76,
+          "name": "chest minecart",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 8.0,
+          "description": "A minecart with a chest.",
+          "itemname": "item/chest_minecart"
+        },
+        {
+          "id": 77,
+          "name": "chicken",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A raw chicken.",
+          "itemname": "item/chicken"
+        },
+        {
+          "id": 78,
+          "name": "chorus fruit",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 5.0,
+          "description": "A chorus fruit.",
+          "itemname": "item/chorus_fruit"
+        },
+        {
+          "id": 79,
+          "name": "clay ball",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A ball of clay.",
+          "itemname": "item/clay_ball"
+        },
+        {
+          "id": 80,
+          "name": "coal",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A piece of coal.",
+          "itemname": "item/coal"
+        },
+        {
+          "id": 81,
+          "name": "cocoa beans",
+          "category": "resources",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A handful of cocoa beans.",
+          "itemname": "item/cocoa_beans"
+        },
+        {
+          "id": 82,
+          "name": "cod",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A raw cod.",
+          "itemname": "item/cod"
+        },
+        {
+          "id": 83,
+          "name": "cod bucket",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 10.0,
+          "description": "A bucket with a cod.",
+          "itemname": "item/cod_bucket"
+        },
+        {
+          "id": 84,
+          "name": "command block minecart",
+          "category": "resources",
+          "rarity": "legendary",
+          "value": 50.0,
+          "description": "A minecart with a command block.",
+          "itemname": "item/command_block_minecart"
+        },
+        {
+          "id": 85,
+          "name": "comparator",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 5.0,
+          "description": "A redstone comparator.",
+          "itemname": "item/comparator"
+        },
+        {
+          "id": 86,
+          "name": "cooked beef",
+          "category": "resources",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A cooked piece of beef.",
+          "itemname": "item/cooked_beef"
+        },
+        {
+          "id": 87,
+          "name": "cooked chicken",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A cooked chicken.",
+          "itemname": "item/cooked_chicken"
+        },
+        {
+          "id": 88,
+          "name": "cooked cod",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A cooked cod.",
+          "itemname": "item/cooked_cod"
+        },
+        {
+          "id": 89,
+          "name": "cooked mutton",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A cooked piece of mutton.",
+          "itemname": "item/cooked_mutton"
+        },
+        {
+          "id": 90,
+          "name": "cooked porkchop",
+          "category": "resources",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A cooked porkchop.",
+          "itemname": "item/cooked_porkchop"
+        },
+        {
+          "id": 91,
+          "name": "cooked rabbit",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.5,
+          "description": "A cooked rabbit.",
+          "itemname": "item/cooked_rabbit"
+        },
+        {
+          "id": 92,
+          "name": "cooked salmon",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A cooked salmon.",
+          "itemname": "item/cooked_salmon"
+        },
+        {
+          "id": 93,
+          "name": "cookie",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A cookie.",
+          "itemname": "item/cookie"
+        },
+        {
+          "id": 94,
+          "name": "copper ingot",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 4.0,
+          "description": "A copper ingot.",
+          "itemname": "item/copper_ingot"
+        },
+        {
+          "id": 95,
+          "name": "coral",
+          "category": "resources",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A piece of coral.",
+          "itemname": "item/coral"
+        },
+        {
+          "id": 96,
+          "name": "cow spawn egg",
+          "category": "resources",
+          "rarity": "rare",
+          "value": 15.0,
+          "description": "A spawn egg for a cow.",
+          "itemname": "item/cow_spawn_egg"
+        },
+        {
+          "id": 97,
+          "name": "cracked nether bricks",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "Cracked nether bricks.",
+          "itemname": "item/cracked_nether_bricks"
+        },
+        {
+          "id": 98,
+          "name": "cracked stone bricks",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "Cracked stone bricks.",
+          "itemname": "item/cracked_stone_bricks"
+        },
+        {
+          "id": 99,
+          "name": "crafting table",
+          "category": "resources",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A crafting table.",
+          "itemname": "item/crafting_table"
+        },
+        {
+          "id": 100,
+          "name": "crossbow",
+          "category": "resources",
+          "rarity": "uncommon",
+          "value": 7.0,
+          "description": "A crossbow.",
+          "itemname": "item/crossbow"
+        }
+      ]
+    },
+    {
+      "categoryname": "tools", 
+      "items": [
+        {
+          "id": 101,
+          "name": "axe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 6.0,
+          "description": "A basic axe.",
+          "itemname": "item/axe"
+        },
+        {
+          "id": 102,
+          "name": "diamond axe",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 20.0,
+          "description": "A diamond axe.",
+          "itemname": "item/diamond_axe"
+        },
+        {
+          "id": 103,
+          "name": "diamond hoe",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 15.0,
+          "description": "A diamond hoe.",
+          "itemname": "item/diamond_hoe"
+        },
+        {
+          "id": 104,
+          "name": "diamond pickaxe",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 25.0,
+          "description": "A diamond pickaxe.",
+          "itemname": "item/diamond_pickaxe"
+        },
+        {
+          "id": 105,
+          "name": "diamond shovel",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 12.0,
+          "description": "A diamond shovel.",
+          "itemname": "item/diamond_shovel"
+        },
+        {
+          "id": 106,
+          "name": "diamond sword",
+          "category": "tools",
+          "rarity": "legendary",
+          "value": 30.0,
+          "description": "A diamond sword.",
+          "itemname": "item/diamond_sword"
+        },
+        {
+          "id": 107,
+          "name": "fishing rod",
+          "category": "tools",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A fishing rod.",
+          "itemname": "item/fishing_rod"
+        },
+        {
+          "id": 108,
+          "name": "flint and steel",
+          "category": "tools",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A flint and steel.",
+          "itemname": "item/flint_and_steel"
+        },
+        {
+          "id": 109,
+          "name": "golden axe",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 10.0,
+          "description": "A golden axe.",
+          "itemname": "item/golden_axe"
+        },
+        {
+          "id": 110,
+          "name": "golden hoe",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 7.0,
+          "description": "A golden hoe.",
+          "itemname": "item/golden_hoe"
+        },
+        {
+          "id": 111,
+          "name": "golden pickaxe",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 12.0,
+          "description": "A golden pickaxe.",
+          "itemname": "item/golden_pickaxe"
+        },
+        {
+          "id": 112,
+          "name": "golden shovel",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 5.0,
+          "description": "A golden shovel.",
+          "itemname": "item/golden_shovel"
+        },
+        {
+          "id": 113,
+          "name": "golden sword",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 15.0,
+          "description": "A golden sword.",
+          "itemname": "item/golden_sword"
+        },
+        {
+          "id": 114,
+          "name": "iron axe",
+          "category": "tools",
+          "rarity": "uncommon",
+          "value": 8.0,
+          "description": "An iron axe.",
+          "itemname": "item/iron_axe"
+        },
+        {
+          "id": 115,
+          "name": "iron hoe",
+          "category": "tools",
+          "rarity": "uncommon",
+          "value": 5.0,
+          "description": "An iron hoe.",
+          "itemname": "item/iron_hoe"
+        },
+        {
+          "id": 116,
+          "name": "iron pickaxe",
+          "category": "tools",
+          "rarity": "uncommon",
+          "value": 10.0,
+          "description": "An iron pickaxe.",
+          "itemname": "item/iron_pickaxe"
+        },
+        {
+          "id": 117,
+          "name": "iron shovel",
+          "category": "tools",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "An iron shovel.",
+          "itemname": "item/iron_shovel"
+        },
+        {
+          "id": 118,
+          "name": "iron sword",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 12.0,
+          "description": "An iron sword.",
+          "itemname": "item/iron_sword"
+        },
+        {
+          "id": 119,
+          "name": "lead",
+          "category": "tools",
+          "rarity": "common",
+          "value": 2.0,
+          "description": "A lead for animals.",
+          "itemname": "item/lead"
+        },
+        {
+          "id": 120,
+          "name": "lever",
+          "category": "tools",
+          "rarity": "common",
+          "value": 1.5,
+          "description": "A lever.",
+          "itemname": "item/lever"
+        },
+        {
+          "id": 121,
+          "name": "lodestone compass",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 18.0,
+          "description": "A compass that points to a lodestone.",
+          "itemname": "item/lodestone_compass"
+        },
+        {
+          "id": 122,
+          "name": "map",
+          "category": "tools",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A basic map.",
+          "itemname": "item/map"
+        },
+        {
+          "id": 123,
+          "name": "name tag",
+          "category": "tools",
+          "rarity": "rare",
+          "value": 8.0,
+          "description": "A name tag.",
+          "itemname": "item/name_tag"
+        },
+        {
+          "id": 124,
+          "name": "netherite axe",
+          "category": "tools",
+          "rarity": "legendary",
+          "value": 30.0,
+          "description": "A netherite axe.",
+          "itemname": "item/netherite_axe"
+        },
+        {
+          "id": 125,
+          "name": "netherite hoe",
+          "category": "tools",
+          "rarity": "legendary",
+          "value": 25.0,
+          "description": "A netherite hoe.",
+          "itemname": "item/netherite_hoe"
+        },
+        {
+          "id": 126,
+          "name": "netherite pickaxe",
+          "category": "tools",
+          "rarity": "legendary",
+          "value": 35.0,
+          "description": "A netherite pickaxe.",
+          "itemname": "item/netherite_pickaxe"
+        },
+        {
+          "id": 127,
+          "name": "netherite shovel",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 20.0,
+          "description": "A netherite shovel.",
+          "itemname": "item/netherite_shovel"
+        },
+        {
+          "id": 128,
           "name": "netherite sword",
-          "category": "cosmic",
-          "rarity": "rarity",
-          "value": 8.95,
-          "description": "description",
+          "category": "tools",
+          "rarity": "legendary",
+          "value": 40.0,
+          "description": "A netherite sword.",
           "itemname": "item/netherite_sword"
+        },
+        {
+          "id": 129,
+          "name": "pickaxe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 6.0,
+          "description": "A basic pickaxe.",
+          "itemname": "item/pickaxe"
+        },
+        {
+          "id": 130,
+          "name": "shears",
+          "category": "tools",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "Shears for cutting.",
+          "itemname": "item/shears"
+        },
+        {
+          "id": 131,
+          "name": "shield",
+          "category": "tools",
+          "rarity": "uncommon",
+          "value": 6.0,
+          "description": "A basic shield.",
+          "itemname": "item/shield"
+        },
+        {
+          "id": 132,
+          "name": "shovel",
+          "category": "tools",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A basic shovel.",
+          "itemname": "item/shovel"
+        },
+        {
+          "id": 133,
+          "name": "stone axe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A stone axe.",
+          "itemname": "item/stone_axe"
+        },
+        {
+          "id": 134,
+          "name": "stone hoe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A stone hoe.",
+          "itemname": "item/stone_hoe"
+        },
+        {
+          "id": 135,
+          "name": "stone pickaxe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A stone pickaxe.",
+          "itemname": "item/stone_pickaxe"
+        },
+        {
+          "id": 136,
+          "name": "stone shovel",
+          "category": "tools",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A stone shovel.",
+          "itemname": "item/stone_shovel"
+        },
+        {
+          "id": 137,
+          "name": "stone sword",
+          "category": "tools",
+          "rarity": "common",
+          "value": 7.0,
+          "description": "A stone sword.",
+          "itemname": "item/stone_sword"
+        },
+        {
+          "id": 138,
+          "name": "sword",
+          "category": "tools",
+          "rarity": "common",
+          "value": 8.0,
+          "description": "A basic sword.",
+          "itemname": "item/sword"
+        },
+        {
+          "id": 139,
+          "name": "trident",
+          "category": "tools",
+          "rarity": "epic",
+          "value": 15.0,
+          "description": "A trident.",
+          "itemname": "item/trident"
         }
       ]
     }
