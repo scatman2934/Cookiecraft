@@ -896,7 +896,7 @@
           "rarity": "common",
           "value": 3.0,
           "description": "Cracked nether bricks.",
-          "itemname": "item/nether_bricks"
+          "itemname": "item/nether_brick"
         },
         {
           "id": 98,
@@ -905,7 +905,7 @@
           "rarity": "common",
           "value": 3.0,
           "description": "Cracked stone bricks.",
-          "itemname": "item/nether_bricks"
+          "itemname": "item/nether_brick"
         },
         {
           "id": 99,
