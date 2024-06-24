@@ -1,7 +1,7 @@
 {
   "changelog": [
     {
-      "date": "> 06/22/2024 8:28 PM EST"
+      "date": "> 06/22/2024 8:28 PM EST",
       "update": [
         {
           "name": "+ /server hub - A hub to join the different servers as well as creative world."
@@ -9,7 +9,7 @@
       ]
     },
     {
-      "date": "> 06/21/2024 7:40 PM EST"
+      "date": "> 06/21/2024 7:40 PM EST",
       "update": [
         {
           "name": "+ Purchased Hub World"
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "date": "> 06/21/2024 1:59 PM EST"
+      "date": "> 06/21/2024 1:59 PM EST",
       "update": [
         {
           "name": "+ /pay works"
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "date": "> 06/20/2024 11:08 AM EST"
+      "date": "> 06/20/2024 11:08 AM EST",
       "update": [
         {
           "name": "+ Land Claiming now works"
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "date": "> 06/20/2024 10:17 AM EST"
+      "date": "> 06/20/2024 10:17 AM EST",
       "update": [
         {
           "name": "+ /balance works"
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "date": "> 06/15/2024 5:33 PM EST"
+      "date": "> 06/15/2024 5:33 PM EST",
       "update": [
         {
           "name": "+ Homes now work"
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "date": "> 06/15/2024 11:53 AM EST"
+      "date": "> 06/15/2024 11:53 AM EST",
       "update": [
         {
           "name": "+ Fixed crashes when going to The End and using bows"
