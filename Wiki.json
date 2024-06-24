@@ -873,12 +873,12 @@
         },
         {
           "id": 95,
-          "name": "coral",
+          "name": "kelp",
           "category": "resources",
           "rarity": "common",
           "value": 2.5,
-          "description": "A piece of coral.",
-          "itemname": "item/coral"
+          "description": "A piece of kelp.",
+          "itemname": "item/kelp"
         },
         {
           "id": 96,
@@ -887,7 +887,7 @@
           "rarity": "rare",
           "value": 15.0,
           "description": "A spawn egg for a cow.",
-          "itemname": "item/cow_spawn_egg"
+          "itemname": "item/spawn_egg"
         },
         {
           "id": 97,
@@ -896,7 +896,7 @@
           "rarity": "common",
           "value": 3.0,
           "description": "Cracked nether bricks.",
-          "itemname": "item/cracked_nether_bricks"
+          "itemname": "item/nether_bricks"
         },
         {
           "id": 98,
@@ -905,7 +905,7 @@
           "rarity": "common",
           "value": 3.0,
           "description": "Cracked stone bricks.",
-          "itemname": "item/cracked_stone_bricks"
+          "itemname": "item/nether_bricks"
         },
         {
           "id": 99,
@@ -914,7 +914,7 @@
           "rarity": "common",
           "value": 3.0,
           "description": "A crafting table.",
-          "itemname": "item/crafting_table"
+          "itemname": "item/stick"
         },
         {
           "id": 100,
@@ -923,7 +923,7 @@
           "rarity": "uncommon",
           "value": 7.0,
           "description": "A crossbow.",
-          "itemname": "item/crossbow"
+          "itemname": "item/crossbow_standby"
         }
       ]
     },
@@ -932,12 +932,12 @@
       "items": [
         {
           "id": 101,
-          "name": "axe",
+          "name": "stone axe",
           "category": "tools",
           "rarity": "common",
           "value": 6.0,
-          "description": "A basic axe.",
-          "itemname": "item/axe"
+          "description": "A basic stone axe.",
+          "itemname": "item/stone_axe"
         },
         {
           "id": 102,
@@ -1103,12 +1103,12 @@
         },
         {
           "id": 120,
-          "name": "lever",
+          "name": "string",
           "category": "tools",
           "rarity": "common",
           "value": 1.5,
-          "description": "A lever.",
-          "itemname": "item/lever"
+          "description": "A string.",
+          "itemname": "item/string"
         },
         {
           "id": 121,
@@ -1117,7 +1117,7 @@
           "rarity": "epic",
           "value": 18.0,
           "description": "A compass that points to a lodestone.",
-          "itemname": "item/lodestone_compass"
+          "itemname": "item/compass_00"
         },
         {
           "id": 122,
@@ -1184,12 +1184,12 @@
         },
         {
           "id": 129,
-          "name": "pickaxe",
+          "name": "stone pickaxe",
           "category": "tools",
           "rarity": "common",
           "value": 6.0,
-          "description": "A basic pickaxe.",
-          "itemname": "item/pickaxe"
+          "description": "A basic stone pickaxe.",
+          "itemname": "item/stone_pickaxe"
         },
         {
           "id": 130,
@@ -1202,75 +1202,75 @@
         },
         {
           "id": 131,
-          "name": "shield",
+          "name": "elytra",
           "category": "tools",
-          "rarity": "uncommon",
+          "rarity": "rare",
           "value": 6.0,
-          "description": "A basic shield.",
-          "itemname": "item/shield"
+          "description": "A basic elytra.",
+          "itemname": "item/elytra"
         },
         {
           "id": 132,
-          "name": "shovel",
-          "category": "tools",
-          "rarity": "common",
-          "value": 4.0,
-          "description": "A basic shovel.",
-          "itemname": "item/shovel"
-        },
-        {
-          "id": 133,
-          "name": "stone axe",
-          "category": "tools",
-          "rarity": "common",
-          "value": 4.0,
-          "description": "A stone axe.",
-          "itemname": "item/stone_axe"
-        },
-        {
-          "id": 134,
-          "name": "stone hoe",
-          "category": "tools",
-          "rarity": "common",
-          "value": 3.0,
-          "description": "A stone hoe.",
-          "itemname": "item/stone_hoe"
-        },
-        {
-          "id": 135,
-          "name": "stone pickaxe",
-          "category": "tools",
-          "rarity": "common",
-          "value": 5.0,
-          "description": "A stone pickaxe.",
-          "itemname": "item/stone_pickaxe"
-        },
-        {
-          "id": 136,
           "name": "stone shovel",
           "category": "tools",
           "rarity": "common",
-          "value": 2.5,
-          "description": "A stone shovel.",
+          "value": 4.0,
+          "description": "A basic stone shovel.",
           "itemname": "item/stone_shovel"
         },
         {
+          "id": 133,
+          "name": "wooden axe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 4.0,
+          "description": "A wooden axe.",
+          "itemname": "item/wooden_axe"
+        },
+        {
+          "id": 134,
+          "name": "wooden hoe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 3.0,
+          "description": "A wooden hoe.",
+          "itemname": "item/wooden_hoe"
+        },
+        {
+          "id": 135,
+          "name": "wooden pickaxe",
+          "category": "tools",
+          "rarity": "common",
+          "value": 5.0,
+          "description": "A wooden pickaxe.",
+          "itemname": "item/wooden_pickaxe"
+        },
+        {
+          "id": 136,
+          "name": "wooden shovel",
+          "category": "tools",
+          "rarity": "common",
+          "value": 2.5,
+          "description": "A wooden shovel.",
+          "itemname": "item/wooden_shovel"
+        },
+        {
           "id": 137,
-          "name": "stone sword",
+          "name": "wooden sword",
           "category": "tools",
           "rarity": "common",
           "value": 7.0,
-          "description": "A stone sword.",
-          "itemname": "item/stone_sword"
+          "description": "A wooden sword.",
+          "itemname": "item/wooden_sword"
         },
         {
           "id": 138,
-          "name": "sword",
+          "name": "stone sword",
           "category": "tools",
           "rarity": "common",
           "value": 8.0,
-          "description": "A basic sword.",
-          "itemname": "item/sword"
+          "description": "A basic stone sword.",
+          "itemname": "item/stone_sword"
         },
         {
           "id": 139,
