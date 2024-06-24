@@ -1,75 +1,43 @@
 {
   "changelog": [
     {
-      "date": "> 06/22/2024 8:28 PM EST",
-      "update": [
-        {
-          "name": "+ /server hub - A hub to join the different servers as well as creative world."
-        }
-      ]
+      "line":"> 06/22/2024 8:28 PM EST",
+      "line":"+ /server hub - A hub to join the different servers as well as creative world.",
+      "line":""
     },
     {
-      "date": "> 06/21/2024 7:40 PM EST",
-      "update": [
-        {
-          "name": "+ Purchased Hub World"
-        }
-      ]
+      "line":"> 06/21/2024 7:40 PM EST",
+      "line":"+ Purchased Hub World",
+      "line":""
     },
     {
-      "date": "> 06/21/2024 1:59 PM EST",
-      "update": [
-        {
-          "name": "+ /pay works"
-        }
-      ]
+      "line":"> 06/21/2024 1:59 PM EST",
+      "line":"+ /pay works",
+      "line":""
     },
     {
-      "date": "> 06/20/2024 11:08 AM EST",
-      "update": [
-        {
-          "name": "+ Land Claiming now works"
-        }
-      ]
+      "line":"> 06/20/2024 11:08 AM EST",
+      "line":"+ Land Claiming now works",
+      "line":""
     },
     {
-      "date": "> 06/20/2024 10:17 AM EST",
-      "update": [
-        {
-          "name": "+ /balance works"
-        }
-      ]
+      "line":"> 06/20/2024 10:17 AM EST",
+      "line":"+ /balance works",
+      "line":""
     },
     {
-      "date": "> 06/15/2024 5:33 PM EST",
-      "update": [
-        {
-          "name": "+ Homes now work"
-        },
-        {
-          "name": "+ /sethome homename to set a home"
-        },
-        {
-          "name": "+ /home homename to teleport to your home"
-        },
-        {
-          "name": "+ /homes to list them all out"
-        },
-        {
-          "name": "+ /delhome homename to delete a home"
-        },
-        {
-          "name": "+ /renamehome homename newname to rename a home"
-        }
-      ]
+      "line":"> 06/15/2024 5:33 PM EST",
+      "line":"+ Homes now work",
+      "line":"+ /sethome homename to set a home",
+      "line":"+ /home homename to teleport to your home",
+      "line":"+ /homes to list them all out",
+      "line":"+ /delhome homename to delete a home",
+      "line":"+ /renamehome homename newname to rename a home",
+      "line":""
     },
     {
-      "date": "> 06/15/2024 11:53 AM EST",
-      "update": [
-        {
-          "name": "+ Fixed crashes when going to The End and using bows"
-        }
-      ]
+      "line":"> 06/15/2024 11:53 AM EST",
+      "line":"+ Fixed crashes when going to The End and using bows"
     }
   ]
 }
