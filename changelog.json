@@ -1,45 +1,95 @@
 {
-  "changelog": [
-    {
-      "line":"> 06/22/2024 8:28 PM EST",
-      "line":"+ /server hub - A hub to join the different servers as well as creative world.",
-      "line":""
-    },
-    {
-      "line":"> 06/21/2024 7:40 PM EST",
-      "line":"+ Purchased Hub World",
-      "line":""
-    },
-    {
-      "line":"> 06/21/2024 1:59 PM EST",
-      "line":"+ /pay works",
-      "line":""
-    },
-    {
-      "line":"> 06/20/2024 11:08 AM EST",
-      "line":"+ Land Claiming now works",
-      "line":""
-    },
-    {
-      "line":"> 06/20/2024 10:17 AM EST",
-      "line":"+ /balance works",
-      "line":""
-    },
-    {
-      "line":"> 06/15/2024 5:33 PM EST",
-      "line":"+ Homes now work",
-      "line":"+ /sethome homename to set a home",
-      "line":"+ /home homename to teleport to your home",
-      "line":"+ /homes to list them all out",
-      "line":"+ /delhome homename to delete a home",
-      "line":"+ /renamehome homename newname to rename a home",
-      "line":""
-    },
-    {
-      "line":"> 06/15/2024 11:53 AM EST",
-      "line":"+ Fixed crashes when going to The End and using bows"
-    }
-  ]
+  "changelogs": {
+    "change7": [
+      {
+        "line":"> 06/22/2024 8:28 PM EST"
+      },
+      {
+        "line":"+ /server hub - A hub to join the different servers as well as creative world."
+      },
+      {
+        "line":""
+      }
+    ],
+    "change6": [
+      {
+        "line":"> 06/21/2024 7:40 PM EST"
+      },
+      {
+        "line":"+ Purchased Hub World"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change5": [
+      {
+        "line":"> 06/21/2024 1:59 PM EST"
+      },
+      {
+        "line":"+ /pay works"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change4": [
+      {
+        "line":"> 06/20/2024 11:08 AM EST"
+      },
+      {
+        "line":"+ Land Claiming now works"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change3": [
+      {
+        "line":"> 06/20/2024 10:17 AM EST"
+      },
+      {
+        "line":"+ /balance works"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change2": [
+      {
+        "line":"> 06/15/2024 5:33 PM EST"
+      },
+      {
+        "line":"+ Homes now work"
+      },
+      {
+        "line":"+ /sethome homename to set a home"
+      },
+      {
+        "line":"+ /home homename to teleport to your home"
+      },
+      {
+        "line":"+ /homes to list them all out"
+      },
+      {
+        "line":"+ /delhome homename to delete a home"
+      },
+      {
+        "line":"+ /renamehome homename newname to rename a home"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change1": [
+      {
+        "line":"> 06/15/2024 11:53 AM EST"
+      },
+      {
+        "line":"+ Fixed crashes when going to The End and using bows"
+      }
+    ]
+  }
 }
 
 
