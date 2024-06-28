@@ -12,7 +12,7 @@
           "category": "boats",
           "rarity": "common",
           "value": 5.0,
-          "obtaining": "You can obtain this item in rank crate...",
+          "obtaining": "You can obtain this item in rank crate.",
           "description": "A boat made from acacia wood.",
           "itemname": "item/acacia_boat"
         },
