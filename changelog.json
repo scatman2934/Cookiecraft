@@ -1,5 +1,49 @@
 {
   "changelogs": {
+    "change12": [
+      {
+        "line":"> 06/29/2024 10:56 PM EST"
+      },
+      {
+        "line":"+ Cosmic Crates work"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change11": [
+      {
+        "line":"> 06/29/2024 9:41 PM EST"
+      },
+      {
+        "line":"+ Spawner & Titan Crates Work"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change10": [
+      {
+        "line":"> 06/29/2024 9:29 PM EST"
+      },
+      {
+        "line":"+ Rank Crates Work"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change9": [
+      {
+        "line":"> 06/29/2024 8:07 PM EST"
+      },
+      {
+        "line":"+ Daily Crates - Still a little buggy but they are functional"
+      },
+      {
+        "line":""
+      }
+    ],
     "change8": [
       {
         "line":"> 06/25/2024 4:36 PM EST"
