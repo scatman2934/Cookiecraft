@@ -2,6 +2,51 @@
   "category": [
     {
       "categoryname": "everything"
+    },
+    {
+      "categoryname": "daily", 
+      "items": [
+        {
+          "id": 0,
+          "name": "test",
+          "category": "daily",
+          "rarity": "common",
+          "value": 5.0,
+          "obtaining": "You can obtain this item in daily crate.",
+          "description": "test",
+          "itemname": "item/acacia_boat"
+        }
+      ]
+    },
+    {
+      "categoryname": "rank", 
+      "items": [
+        {
+          "id": 0,
+          "name": "test",
+          "category": "rank",
+          "rarity": "common",
+          "value": 5.0,
+          "obtaining": "You can obtain this item in rank crate.",
+          "description": "test",
+          "itemname": "item/oak_boat"
+        }
+      ]
+    },
+    {
+      "categoryname": "spawner", 
+      "items": [
+        {
+          "id": 0,
+          "name": "test",
+          "category": "spawner",
+          "rarity": "common",
+          "value": 5.0,
+          "obtaining": "You can obtain this item in spawner crate.",
+          "description": "test",
+          "itemname": "item/spruce_boat"
+        }
+      ]
     }
   ]
 }
