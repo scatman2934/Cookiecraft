@@ -22,7 +22,7 @@
       "categoryname": "rank", 
       "items": [
         {
-          "id": 0,
+          "id": 1,
           "name": "test",
           "category": "rank",
           "rarity": "common",
@@ -37,7 +37,7 @@
       "categoryname": "spawner", 
       "items": [
         {
-          "id": 0,
+          "id": 2,
           "name": "test",
           "category": "spawner",
           "rarity": "common",
