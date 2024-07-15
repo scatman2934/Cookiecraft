@@ -1,5 +1,83 @@
 {
   "changelogs": {
+    "change18": [
+      {
+        "line":"> 07/04/2024 9:23 PM EST"
+      },
+      {
+        "line":"+ Jobs Work"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change17": [
+      {
+        "line":"> 07/04/2024 3:24 AM EST"
+      },
+      {
+        "line":"+ Vote Ranks and Prefixes are now functional."
+      },
+      {
+        "line":"~ 'Premium' ranks are coming soon"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change16": [
+      {
+        "line":"> 07/04/2024 3:05 AM EST"
+      },
+      {
+        "line":"~ Prefix items no longer stack"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change15": [
+      {
+        "line":"> 07/04/2024 2:55 AM EST"
+      },
+      {
+        "line":"+ /ranks now goes by your actual total votes"
+      },
+      {
+        "line":"+ vote points can be spent on /vote shop"
+      },
+      {
+        "line":"~ Can not longer use a prefix item if you already have it"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change14": [
+      {
+        "line":"> 07/04/2024 2:46 AM EST"
+      },
+      {
+        "line":"+ /ranks"
+      },
+      {
+        "line":"+ /prefix"
+      },
+      {
+        "line":""
+      }
+    ],
+    "change13": [
+      {
+        "line":"> 07/03/2024 3:48 PM EST"
+      },
+      {
+        "line":"+ /ranks menu finally kind of done"
+      },
+      {
+        "line":""
+      }
+    ],
     "change12": [
       {
         "line":"> 06/29/2024 10:56 PM EST"
