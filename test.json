@@ -1,10 +1,10 @@
 {
   "clan": [
     {
+      "id": 1
       "name": "Mythical Divine Court",
       "hero": [
         {
-          "id": 1
           "name": "Ayumi",
           "short_lore": "Ayumi hails from the Hidden Fox Clan. She is once saved by unknown person who becomes her admired person, she is determined to find this said person.",
           "title": "Enigma of the Shadows",
@@ -14,7 +14,6 @@
           "event": 0
         },
         {
-          "id": 2
           "name": "Petal Mythical",
           "short_lore": "Centuries ago, in the serene and enchanting forests of the Mythical Plains, the Fox Clan thrived in harmony with nature. The clan hero, human-like in appearance but distinguished by their fox ears and tails, lived peacefully under the guidance of their elders and the protection of their ancestral spirits. Among them was a young woman named Petals, known for her beauty, kindness, and strong connection to the natural world.",
           "title": "Master of the 6 Pink Petals",
@@ -36,6 +35,7 @@
       ]
     },
     {
+      "id": 2
       "name": "Crystal Lotus Lake",
       "hero": [
         {
